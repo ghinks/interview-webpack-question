@@ -1,0 +1,20 @@
+{
+  "name": "interview-webpack-question",
+  "version": "1.0.0",
+  "description": "## What we want - setup a project with git init - create a readme.md - setup basic hello world with webpack - setup basic css with webpack - setup basic react - put react element on the page",
+  "main": "index.js",
+  "scripts": {
+    "build:dev": "webpack --mode=development",
+    "build:prod": "webpack --mode=production",
+    "dev": "webpack-dev-server --mode=development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}

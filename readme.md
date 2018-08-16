@@ -7,3 +7,9 @@
 - setup basic css with webpack
 - setup basic react
 - put react element on the page
+
+
+## instructions
+
+npm i webpack webpack-cli webpack-dev-server -D
+npm i html-webpack-plugin -D
