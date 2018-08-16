@@ -13,3 +13,6 @@
 
 npm i webpack webpack-cli webpack-dev-server -D
 npm i html-webpack-plugin -D
+npm i css-loader -D
+npm i style-loader -D
+npm i mini-css-extract-plugin -D
